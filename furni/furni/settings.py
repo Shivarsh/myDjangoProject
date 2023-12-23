@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS=['127.0.0.1','.pythonanywhere.com','localhost']
 
-ALLOWED_HOSTS = []
+
 
 
 # Application definition
